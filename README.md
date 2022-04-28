@@ -1,4 +1,4 @@
-<h1 align="center"> Breaking Bad PCB Keychain </h1>
+<h1 align="center"> Heisenberg PCB Keychain </h1>
 
 <h2 align="center"> Short Articles Series </h2>
 
