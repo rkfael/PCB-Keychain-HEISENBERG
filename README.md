@@ -24,7 +24,7 @@ How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 **Figure 3 - Pictures Breaking Bad Keychain**
 
-![showcase](https://github.com/rkfael/PCB-Keychain-HEISENBERG/blob/main/rootimages/1.jpg)
+![showcase](https://github.com/rkfael/PCB-Keychain-HEISENBERG/blob/main/rootimages/01.jpg)
 
 ![showcase](https://github.com/rkfael/PCB-Keychain-HEISENBERG/blob/main/rootimages/2.jpg)
 
