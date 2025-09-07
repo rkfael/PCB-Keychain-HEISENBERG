@@ -34,7 +34,7 @@ How to make a PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 ## More about it:
 
-For more pictures and PCB art ideas, check out my Instagram profile [RKfael - PCB Design](https://www.instagram.com/rkfael_pcb_design/)
+For more pictures and PCB art ideas, check out my Instagram profile [@rkfaelpcb](https://instagram.com/rkfaelpcb)
 
 ## YouTube channel:
 
